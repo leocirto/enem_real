@@ -1,5 +1,5 @@
 "Assets" do aplicativo Enem Real<br/>
-Saiba mais: http://
+Saiba mais: [http://](https://play.google.com/store/apps/details?id=applicar.enem_real)
 
 Arquivos baixados no site do INEP:<br/>
 https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos
