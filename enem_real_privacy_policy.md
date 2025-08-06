@@ -1,14 +1,16 @@
 ### English
 # Enem Real App's Privacy Policy
 
-The Enem Real app does not collect, use, or share any user data or device information.
+The enem real app does not collect, use, or share any user data or device information.
 
-No user data or device information is storaged outside ...
+No user data or device information is stored externally.
+
+All your interactions with the app are stored only on your device and can be deleted at any time.
 
 ### Português
 # Política de Privacidade do Aplicativo Enem Real
 
-O aplicativo Enem Real não coleta, não usa e não compartilha com terceiros nenhuma informação sua ou do seu dispositivo.
+O aplicativo enem real não coleta, não usa e não compartilha com terceiros nenhuma informação sua ou do seu dispositivo.
 
 Nenhuma informação sua ou do seu dispositivo é armazenada externamente.
 
