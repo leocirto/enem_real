@@ -1,11 +1,12 @@
 "Assets" do aplicativo Enem Real<br/>
-Saiba mais: [https://play.google.com/store/apps/details?id=applicar.enem_real](https://play.google.com/store/apps/details?id=applicar.enem_real)
+Saiba mais: https://play.google.com/store/apps/details?id=applicar.enem_real
 
 Arquivos baixados no site do INEP:<br/>
-[https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos]https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos
+https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos
 
 Matrix de Referência Enem:<br/>
 http://download.inep.gov.br/download/enem/matriz_referencia.pdf
+
 
 Files have been compressed for screen quality using:
 ```Bash
