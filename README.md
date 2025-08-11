@@ -12,3 +12,7 @@ Files have been compressed for screen quality using:
 ```Bash
 ps2pdfwr -dPrinted=false -dUseFlateCompression=true -dPDFSETTINGS=/screen -dDetectDuplicateImages=true in.pdf out.pdf
 ```
+
+<div align="center">
+  <img src="/enem_real_logo.png" width="150" title="enem real logo" alt="enem real logo"/>
+</div>
