@@ -37,7 +37,7 @@ Parâmetros da questão (TRI e Habilidade):
 ```
 
 ## Inconsistência 2
-O ou A estudante cujo índice na tabela `RESUTADOS` é `index = 2214483`
+Estudante cujo índice na tabela `RESUTADOS` é `index = 2214483`
 
 ```
 CO_PROVA_CN  1221 => CN - Azul
